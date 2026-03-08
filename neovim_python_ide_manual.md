@@ -395,7 +395,7 @@ Treesitter provides advanced parsing.
 
 Install grammars
 
-    :TSInstall python
+    :TSInsall python
 
 Benefits
 
